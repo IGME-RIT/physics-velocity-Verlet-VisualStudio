@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\advacned topics\physics-velocity-verlet-mastervs2019\velocityverlet\main.cpp(365): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\profiles\njp2424\desktop\physics\advacned topics\physics-velocity-verlet-mastervs2019\velocityverlet\main.cpp(396): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  VelocityVerlet.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\Advacned Topics\physics-velocity-Verlet-masterVS2019\VelocityVerlet\Debug\VelocityVerlet.exe
